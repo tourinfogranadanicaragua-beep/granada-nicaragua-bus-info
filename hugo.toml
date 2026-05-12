@@ -1,0 +1,32 @@
+baseURL = "https://example.com/"
+title = "Granada Bus Info"
+theme = "PaperMod"
+
+[params]
+  description = "Bus schedules and stops in Granada Nicaragua"
+  disableThemeToggle = true
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.label]
+icon = "/images/logo.png"
+iconHeight = 100
+text = ""
+iconOnly = true
+
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Destinos"
+url = "/#destinations"
+weight = 2
+
+[[menu.main]]
+name = "Contacto"
+url = "/contact/"
+weight = 3
