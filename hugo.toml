@@ -12,16 +12,18 @@ enableRobotsTXT = true
 [params]
   description = "Bus schedules and stops in Granada Nicaragua"
   disableThemeToggle = true
-  [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+ 
 [params.label]
 icon = "/images/logo.png"
 iconHeight = 100
 text = ""
 iconOnly = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [[menu.main]]
 name = "Inicio"
