@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://granadabus.netlify.app/"
 title = "Granada Bus Info"
 theme = "PaperMod"
 
