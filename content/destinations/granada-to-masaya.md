@@ -109,11 +109,11 @@ Terminal de buses a Managua Masaya, Parqueo Colón
 
 | Precio | Duración |
 |--------|----------|
-| C$ korekara | Aprx. 40 min | 
+| C$ 25 | Aprx. 40 min | 
 
 | Cooperativa | Teléfono |
 |-------------|-----------|
-| korekara | korekara |
+| Coogrant | +505-2552-4069 |
 </div>
 
 </div>
@@ -126,7 +126,8 @@ Paradas disponibles en distintos puntos de la Carretera a Masaya.
 <!-- 地図のみ表示する場合 -->
 <div class="image-map full-map">
   <div class="map-wrap">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d408.61960531135486!2d-85.9544951165366!3d11.928830517359991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f740c94cc4a8717%3A0x51655701af08b885!2sTerminal%20de%20Buses%20Granada%20-%20Managua%2FMasaya%20(UCA)!5e0!3m2!1ses-419!2sni!4v1778281168236!5m2!1ses-419!2sni"  style="border:0;" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5475.741843898375!2d-86.08643424418595!3d11.981124110752686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7408997f4dcc93%3A0x6fb7e9d4d4ed75a6!2sCarr.%20a%20Masaya%2C%20Masaya!5e0!3m2!1ses-419!2sni!4v1778522217727!5m2!1ses-419!2sni"  
+    style="border:0;" loading="lazy"></iframe>
   </div>
 </div>
 

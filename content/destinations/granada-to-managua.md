@@ -50,12 +50,14 @@ Terminal de buses a Managua, Parqueo Colón
 ### Parada de llegada
 Terminal de buses de Casimiro Sotelo / UCA
 
-<div class="image-map full-map">
+<!-- 写真と地図どちらも表示する場合 -->
+<div class="image-map">
+  <div class="image-wrap">
+    <img src="/images/stops/UCA.jpeg" class="stop-image" alt="terminal de uca">
+  </div>
+
   <div class="map-wrap">
-    <iframe
-     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d638.2479888167085!2d-86.27107323112331!3d12.127305506925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f715566eab4a549%3A0x2ead63579f99144e!2sTerminal%20de%20buses%20Managua-Granada%20cooperativa%20cocibolca!5e0!3m2!1ses-419!2sni!4v1778521292683!5m2!1ses-419!2sni"
-     width="100%" height="250" style="border:0;" loading="lazy">
-     </iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d638.2479888167085!2d-86.27107323112331!3d12.127305506925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f715566eab4a549%3A0x2ead63579f99144e!2sTerminal%20de%20buses%20Managua-Granada%20cooperativa%20cocibolca!5e0!3m2!1ses-419!2sni!4v1778521292683!5m2!1ses-419!2sni"  style="border:0;" loading="lazy"></iframe>
   </div>
 </div>
 

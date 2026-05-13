@@ -68,4 +68,3 @@ Terminal de buses de Rivas
 
 </div>
 
-s

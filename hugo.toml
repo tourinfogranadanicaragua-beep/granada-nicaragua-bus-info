@@ -2,6 +2,13 @@ baseURL = "https://granadabus.netlify.app/"
 title = "Granada Bus Info"
 theme = "PaperMod"
 
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
   description = "Bus schedules and stops in Granada Nicaragua"
   disableThemeToggle = true
@@ -30,3 +37,4 @@ weight = 2
 name = "Contacto"
 url = "/contact/"
 weight = 3
+
