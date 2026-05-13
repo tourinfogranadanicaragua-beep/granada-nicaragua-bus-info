@@ -40,3 +40,7 @@ name = "Contacto"
 url = "/contact/"
 weight = 3
 
+disableKinds = []
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
