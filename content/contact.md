@@ -150,27 +150,6 @@ Malacatoya
 
 <p>
 <span class="label">Cooperativa</span><br>
-Coogrant
-</p>
-
-<p>
-<span class="label">Teléfono</span><br>
-<a href="tel:+50525524069">+505-2552-4069</a>
-</p>
-
-</div>
-
-<div class="bus-stop-card">
-
-<h3>Terminal de buses a Malacatoya</h3>
-
-<p>
-<span class="label">Destino</span><br>
-Malacatoya
-</p>
-
-<p>
-<span class="label">Cooperativa</span><br>
 Cocotours
 </p>
 

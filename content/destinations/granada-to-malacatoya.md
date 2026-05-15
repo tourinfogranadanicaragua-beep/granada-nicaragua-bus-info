@@ -29,10 +29,9 @@ Terminal de buses a Malacatoya, frente al Portón principal del mercado municipa
 
 ### Horarios
 
-| Día | Horario | Frecuencia |
-|-----|---------|------------|
-| Lunes a sábado | 8:15 a.m. - 5:00 p.m. | cada hora |
-| Domingo | 9:00 a.m. - 5:00 p.m. | cada hora |
+| Día | Horario |
+|-----|---------|
+| Lunes a domingo |8:15, 9:30, 10:30, 11:30, 12:30, 13:30, 14:00, 14:30, 15:40, 17:00 | 
 </div>
 
 
@@ -43,10 +42,6 @@ Terminal de buses a Malacatoya, frente al Portón principal del mercado municipa
 | Precio | Duración |
 |--------|----------|
 | C$30 | Aprx. 1 hora | 
-
-| Cooperativa | Teléfono |
-|-------------|-----------|
-| Coogrant | +505-2552-4069 |
 
 | Cooperativa | Teléfono |
 |-------------|-----------|

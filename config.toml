@@ -19,6 +19,9 @@ iconHeight = 100
 text = ""
 iconOnly = true
 
+[params.analytics.google]
+SiteVerificationTag = "8EUzVvYz94iEFCYXT-AvoerPkzyuFLSLyGdM7d0By-w"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
