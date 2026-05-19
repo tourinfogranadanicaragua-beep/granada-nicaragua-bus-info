@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Nandaime"
-description: "Información de buses de Granada a Nandaime: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Nandaime | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Nandaime: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Nandaime

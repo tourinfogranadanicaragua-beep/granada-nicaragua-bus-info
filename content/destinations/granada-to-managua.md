@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Managua"
-description: "Información de buses de Granada a Managua: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Managua | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Managua: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Casimiro Sotelo / UCA, Managua

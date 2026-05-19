@@ -4,7 +4,6 @@
 {{ range .Site.RegularPages }}
   <url>
     <loc>{{ .Permalink }}</loc>
-    <lastmod>{{ .Lastmod.Format "2006-01-02" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

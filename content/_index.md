@@ -1,6 +1,7 @@
 ---
 title: "Información de Buses de Granada"
 description: "Información de horarios y paradas de buses en Granada para facilitar tu viaje"
+layout: "home"
 ---
 
 <img src="/images/granada-bus.jpg" class="hero-image" alt="Granada Bus">

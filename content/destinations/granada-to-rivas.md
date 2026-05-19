@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Rivas"
-description: "Información de buses de Granada a Rivas: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Rivas | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Rivas: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Rivas

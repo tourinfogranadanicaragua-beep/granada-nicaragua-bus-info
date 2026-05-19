@@ -1,8 +1,7 @@
 ---
 title: "Buses de Granada a Aguas Agrias"
-description: "Información de buses de Granada a DESTINO: rutas, horarios, precios, duración y puntos de salida y llegada."
-date: 2026-05-15
-lastmod: 2026-05-15
+seoTitle: "Bus de Granada a Aguas Agrias | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Aguas Agrias: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Nandaime

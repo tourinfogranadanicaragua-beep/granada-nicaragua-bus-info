@@ -10,6 +10,8 @@ enableRobotsTXT = true
 [params]
   description = "Bus schedules and stops in Granada Nicaragua"
   disableThemeToggle = true
+  disableSpecial1stPost = true
+  mainSections = []
  
 [params.label]
 icon = "/images/logo.png"

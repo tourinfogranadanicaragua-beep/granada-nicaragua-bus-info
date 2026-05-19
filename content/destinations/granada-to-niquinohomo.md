@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Diriomo, Diriá, Niquinohomo"
-description: "Información de buses de Granada a Diriomo, Diriá, Niquinohomo: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Diriomo, Diriá, Niquinohomo | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Diriomo, Diriá, Niquinohomo: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Niquinohomo

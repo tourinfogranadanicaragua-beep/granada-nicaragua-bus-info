@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Jinotepe"
-description: "Información de buses de Granada a Jinotepe: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Jinotepe | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Jinotepe: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Jinotepe

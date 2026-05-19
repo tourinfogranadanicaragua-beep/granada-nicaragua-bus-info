@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Malacatoya"
-description: "Información de buses de Granada a Malacatoya: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Malacatoya | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Malacatoya: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Malacatoya

@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a San Carlos, Rio San Juan"
-description: "Información de buses de Granada a San Carlos, Rio San Juan: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a San Carlos (Rio San Juan) | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a San Carlos (Rio San Juan): horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a San Carlos, Rio San Juan

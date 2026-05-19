@@ -1,6 +1,7 @@
 ---
-title: "Buses de Granada a Volcán Mombacho"
-description: "Información de buses de Granada a Volcán Mombacho: rutas, horarios, precios, duración y puntos de salida y llegada."
+title: "Buses de Granada al Volcán Mombacho"
+seoTitle: "Bus de Granada al Volcán Mombacho | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada al Volcán Mombacho: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Nandaime

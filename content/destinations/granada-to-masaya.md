@@ -1,6 +1,7 @@
 ---
 title: "Buses de Granada a Masaya"
-description: "Información de buses de Granada a Masaya: rutas, horarios, precios, duración y puntos de salida y llegada."
+seoTitle: "Bus de Granada a Masaya | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada a Masaya: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus al Mercado Municipal de Masaya

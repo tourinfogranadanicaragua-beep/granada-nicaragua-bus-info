@@ -1,6 +1,7 @@
 ---
-title: "Buses de Granada a Mirador de Catarina"
-description: "Información de buses de Granada a Mirador de Catarina: rutas, horarios, precios, duración y puntos de salida y llegada."
+title: "Buses de Granada al Mirador de Catarina"
+seoTitle: "Bus de Granada al Mirador de Catarina | Horarios y Paradas (2026)"
+description: "Información actualizada sobre buses de Granada al Mirador de Catarina: horarios, terminales, rutas, precios y recomendaciones para viajeros."
 ---
 
 ## Bus a Niquinohomo
