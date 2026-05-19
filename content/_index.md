@@ -1,6 +1,7 @@
 ---
 title: "Información de Buses de Granada"
-description: "Información de horarios y paradas de buses en Granada para facilitar tu viaje"
+seoTitle: "Buses en Granada, Nicaragua | Horarios, Rutas y Precios"
+description: "Encuentra información sobre buses en Granada, Nicaragua: horarios, terminales, rutas, precios y consejos para viajeros."
 layout: "home"
 ---
 
