@@ -1,5 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-aguas-agrias/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/fmt/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-niquinohomo/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-jinotepe/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-malacatoya/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-managua/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-masaya/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-catarina/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-nandaime/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-rivas/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-san-carlos/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/destinations/granada-to-mombacho/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>0001-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+
 </urlset>
