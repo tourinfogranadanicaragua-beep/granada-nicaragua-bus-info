@@ -431,7 +431,7 @@ h1, h2, h3 {
 .hero-overlay h1 {
   color: #3E2F26;
   margin-top: 10px;
-  font-size: 36px;
+  font-size: 30px;
   margin-bottom: 15px;
   font-weight: 700;
 }
@@ -737,4 +737,76 @@ html {
 
 .more-destinations[open] .close-text {
   display: inline;
+}
+
+/* ===================== */
+/* 下部リンク */
+/* ===================== */
+
+.related-title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.related-card .related-title {
+    margin: 8px 0 6px;
+}
+
+.related-routes {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.related-routes li {
+    display: flex;
+    align-items: center;
+    min-height: 42px;
+    margin: 0.5rem 0;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.related-routes li:last-child {
+    border-bottom: none;
+}
+
+.related-routes a {
+    text-decoration: none;
+}
+
+.related-card {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 12px 12px; /* ←上下をかなり圧縮 */
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.related-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.related-card li {
+  margin: 0;
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+
+  display: flex;
+  align-items: center; /* 縦中央 */
+}
+
+.related-card li:first-child {
+  border-top: none;
+}
+
+.related-card a {
+  text-decoration: none;
+  width: 100%;
 }

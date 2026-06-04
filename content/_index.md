@@ -1,7 +1,7 @@
 ---
-title: "Información de Buses de Granada"
-seoTitle: "Buses en Granada, Nicaragua | Horarios, Rutas y Precios"
-description: "Encuentra información sobre buses en Granada, Nicaragua: horarios, terminales, rutas, precios y consejos para viajeros."
+title: "Buses de Granada: Horarios, Terminales, Precios y Rutas"
+seoTitle: "Buses de Granada: Horarios, Terminales y Precios (Guía 2026)"
+description: "Información sobre los buses de Granada, Nicaragua. Horarios, rutas, terminales y precios para viajar a Managua, Rivas y Mombacho (Granada Bus Guide)."
 layout: "home"
 ---
 
@@ -9,9 +9,9 @@ layout: "home"
 
 <div class="hero-section">
   <div class="hero-overlay">
-    <h1>Información de Buses de Granada</h1>
+    <h1>Buses de Granada: Horarios, Terminales, Precios y Rutas</h1>
     <p>
-      Horarios, terminales y rutas para facilitar tu viaje desde Granada, Nicaragua
+      Guía completa de buses de Granada, Nicaragua. Encuentra horarios, terminales y precios de autobuses hacia Managua, Rivas, Mombacho y más destinos.
     </p>
   </div>
 </div>
@@ -27,7 +27,7 @@ Antes de viajar, se recomienda confirmar la información directamente en la para
 
 ---
 
-## Lugares turísticos cerca de Granada {#destinations}
+## Buses a Lugares Turísticos cerca de Granada{#destinations}
 
 <div class="destination-list">
 
@@ -44,7 +44,7 @@ Uno de los principales atractivos naturales de Granada, famoso por sus senderos,
 **Acceso:** Después de bajarte del bus, moto taxi hasta la entrada
 
 <a href="/destinations/granada-to-mombacho/" class="button-link">
-Ver buses Granada - Volcán Mombacho
+Ver buses de Granada a Volcán Mombacho
 </a>
 
 </section>
@@ -62,7 +62,7 @@ Un balneario natural rodeado de vegetación, ideal para relajarse y disfrutar de
 **Acceso:** Después de bajarte del bus, moto taxi hasta la entrada
 
 <a href="/destinations/granada-to-aguas-agrias/" class="button-link">
-Ver buses Granada - Aguas Agrias
+Ver buses de Granada a Aguas Agrias
 </a>
 
 </section>
@@ -91,7 +91,7 @@ Uno de los miradores más famosos de Nicaragua, con vistas panorámicas y canopy
 **Acceso:** Después de bajarte del bus, moto taxi hasta la entrada
 
 <a href="/destinations/granada-to-catarina/" class="button-link">
-Ver buses Granada - Catarina
+Ver buses de Granada a Catarina
 </a>
 
 </section>
@@ -110,7 +110,7 @@ Una laguna volcánica de aguas tranquilas, ideal para relajarse y disfrutar de l
 **Acceso:**---
 
 <a href="/destinations/granada-to-laguna-apoyo/" class="button-link">
-Ver buses Granada - Laguna de Apoyo
+Ver buses de Granada - Laguna de Apoyo
 </a>
 
 </section>
@@ -123,7 +123,7 @@ Ver buses Granada - Laguna de Apoyo
 
 ---
 
-## Destinos desde Granada a otras ciudades
+## Buses desde Granada a otras Ciudades
 
 <div class="destination-list">
 
@@ -140,7 +140,7 @@ La capital de Nicaragua y principal punto de conexión para viajar a otras ciuda
 **Ruta a:** León, Matagalpa, Estelí, Jinotega, Aeropuerto Internacional, etc
 
 <a href="/destinations/granada-to-managua/" class="button-link">
-Ver buses Granada - Managua
+Ver buses de Granada a Managua
 </a>
 
 </section>
@@ -158,7 +158,7 @@ Ciudad conocida por su mercado artesanal y su cercanía al Volcán Masaya, uno d
 **Ruta a:** Managua, Mercado de Artesanías, Volcán Masaya, etc
 
 <a href="/destinations/granada-to-masaya/" class="button-link">
-Ver buses Granada - Masaya
+Ver buses de Granada a Masaya
 </a>
 
 </section>
@@ -176,7 +176,7 @@ Ciudad estratégica en el sur de Nicaragua, punto de acceso hacia San Juan del S
 **Ruta a:** San Juan del Sur, Ometepe, etc
 
 <a href="/destinations/granada-to-rivas/" class="button-link">
-Ver buses Granada - Rivas
+Ver buses de Granada a Rivas
 </a>
 
 </section>
@@ -192,7 +192,7 @@ alt="san-carlos">
 Ciudad a orillas del Lago Cocibolca, punto de conexión hacia el Río San Juan y la Reserva Indio Maíz.
 
 <a href="/destinations/granada-to-san-carlos/" class="button-link">
-Ver buses Granada - San Carlos
+Ver buses de Granada a San Carlos
 </a>
 
 </section>
@@ -219,7 +219,7 @@ alt="nandaime">
 Ciudad ubicada sobre la carretera Panamericana, conocida como punto de conexión entre Granada, Rivas y el sur del país.
 
 <a href="/destinations/granada-to-nandaime/" class="button-link">
-Ver buses Granada - Nandaime
+Ver buses de Granada a Nandaime
 </a>
 
 </section>
@@ -234,8 +234,7 @@ alt="diriomo">
 
 Pueblos tradicionales cerca de Granada, conocidos por su ambiente local, artesanías y vistas naturales.
 
-<a href="/destinations/granada-to-niquinohomo/" class="button-link">
-Ver buses Granada - Diriá, Diriomo, Niquinohomo
+<a href="/destinations/granada-to-niquinohomo/" class="button-link">Ver buses de Granada a Diriá, Diriomo, Niquinohomo
 </a>
 
 </section>
@@ -251,7 +250,7 @@ alt="Jinotepe">
 Ciudad del departamento de Carazo, conocida por su clima fresco y acceso a varios destinos cercanos del Pacífico.
 
 <a href="/destinations/granada-to-Jinotepe/" class="button-link">
-Ver buses Granada - Jinotepe
+Ver buses de Granada a Jinotepe
 </a>
 
 </section>
@@ -267,7 +266,7 @@ alt="malacatoya">
 Pueblo rural del departamento de Granada, conocido por sus paisajes naturales y su ambiente tranquilo junto al río.
 
 <a href="/destinations/granada-to-malacatoya/" class="button-link">
-Ver buses Granada - Malacatoya
+Ver buses de Granada a Malacatoya
 </a>
 
 </section>

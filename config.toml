@@ -1,6 +1,8 @@
 baseURL = "https://granadabus.netlify.app/"
 title = "Granada Bus Info"
 theme = "PaperMod"
+languageCode = "es"               
+defaultContentLanguage = "es"
 
 enableRobotsTXT = true
 
