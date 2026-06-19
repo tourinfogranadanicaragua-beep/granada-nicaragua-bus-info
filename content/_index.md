@@ -274,3 +274,65 @@ Ver buses de Granada a Malacatoya
 </div>
 </details>
 
+---
+
+<div class="related-card">
+    <h3 class="related-title">
+        Preguntas frecuentes sobre los buses en Nicaragua
+    </h3>
+
+<details class="faq-item">
+<summary>¿Se puede reservar el bus?</summary>
+
+En general, los buses públicos en Nicaragua no aceptan reservas. 
+Los pasajeros abordan por orden de llegada.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cuándo y cómo se paga el pasaje?</summary>
+
+El pasaje se paga en efectivo después de abordar el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje.
+
+No se aceptan tarjetas de crédito ni débito.
+
+Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Los horarios de los buses son exactos?</summary>
+
+No siempre. Los horarios de los buses públicos en Nicaragua pueden variar según el tráfico, la demanda u otras circunstancias.
+
+Utilice los horarios como referencia y procure viajar con suficiente tiempo de anticipación.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se pueden llevar maletas o equipaje grande en el bus público?</summary>
+
+Sí, normalmente se permite llevar maletas y equipaje grande en el bus público.
+
+Sin embargo, en horarios de alta demanda puede resultar incómodo debido al espacio limitado. Mantenga siempre sus objetos de valor consigo.
+
+En algunos casos, si su equipaje ocupa asientos adicionales, podrían cobrarle un pasaje extra.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Son peligrosos los buses públicos?</summary>
+
+Los buses públicos son utilizados por todo tipo de personas. Aunque suelen ser una forma común de transporte, es importante tomar precauciones contra robos.
+
+Mantenga sus objetos de valor siempre consigo y evite dormir durante el trayecto.
+
+</details>
+
+<div class="faq-link">
+  <a href="/faq/">Ver todas las preguntas frecuentes</a>
+</div>
+
+</div>
+
+

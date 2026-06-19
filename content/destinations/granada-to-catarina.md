@@ -79,6 +79,87 @@ Parada de la rotonda de Catarina
 
 <div class="related-card">
     <h3 class="related-title">
+        Preguntas frecuentes sobre los buses al Mirador de Catarina
+    </h3>
+
+<details class="faq-item">
+<summary>¿Dónde tomar el bus de Granada a Mirador de Catarina?</summary>
+
+El bus de Granada a Mirador de Catarina sale desde Terminal de Maxi Palí.
+
+Puede consultar la ubicación exacta, la dirección y el mapa en la información mostrada en la parte superior de esta página.
+
+</details>
+
+<details class="faq-item">
+<summary>¿A qué hora salen los buses de Granada a Mirador de Catarina?</summary>
+
+Los buses de Granada a Mirador de Catarina salen desde Terminal de Maxi Palí de lunes a viernes entre las 6:45 a. m. y las 5:50 p. m., aproximadamente cada 30 minutos. 
+
+Los sábados salen entre las 6:45 a. m. y las 4:40 p. m., también cada 30 minutos. 
+
+Los domingos salen entre las 7:45 a. m. y las 3:45 p. m., aproximadamente cada hora.
+
+Sin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cuánto cuesta el bus de Granada a Mirador de Catarina y cómo se paga?</summary>
+
+La tarifa del bus de Granada a Mirador de Catarina es de aproximadamente C$18 por persona.
+
+El pasaje se paga en efectivo una vez abordado el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje. Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.
+
+Actualmente, los buses públicos no aceptan tarjetas de crédito ni débito.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cómo llegar a Mirador de Catarina después de bajar del bus?</summary>
+
+Para llegar a Mirador de Catarina, puede bajarse en parada de la rotonda de Catarina y tomar un mototaxi hasta la entrada o el destino final.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se puede reservar el bus?</summary>
+
+En general, los buses públicos en Nicaragua no aceptan reservas. 
+Los pasajeros abordan por orden de llegada.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se pueden llevar maletas o equipaje grande en el bus público?</summary>
+
+Sí, normalmente se permite llevar maletas y equipaje grande en el bus público.
+
+Sin embargo, en horarios de alta demanda puede resultar incómodo debido al espacio limitado. Mantenga siempre sus objetos de valor consigo.
+
+En algunos casos, si su equipaje ocupa asientos adicionales, podrían cobrarle un pasaje extra.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Con qué frecuencia se actualiza la información de este sitio?</summary>
+
+Actualizamos la información de forma periódica.
+
+Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siempre recomendamos confirmar la información más reciente directamente en la terminal o con los operadores de transporte.
+
+</details>
+
+<div class="faq-link">
+  <a href="/faq/">Ver todas las preguntas frecuentes</a>
+</div>
+
+</div>
+
+---
+
+<div class="related-card">
+    <h3 class="related-title">
         Otros destinos desde Granada
     </h3>
 

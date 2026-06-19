@@ -73,6 +73,87 @@ Terminal de buses de Rivas
 
 <div class="related-card">
     <h3 class="related-title">
+        Preguntas frecuentes sobre los buses a Rivas
+    </h3>
+
+<details class="faq-item">
+<summary>¿Dónde tomar el bus de Granada a Rivas?</summary>
+
+El bus de Granada a Rivas sale desde Terminal de Maxi Palí.
+
+Puede consultar la ubicación exacta, la dirección y el mapa en la información mostrada en la parte superior de esta página.
+
+</details>
+
+<details class="faq-item">
+<summary>¿A qué hora salen los buses de Granada a Rivas?</summary>
+
+"Los buses de Granada a Rivas salen desde Terminal de Maxi Palí de lunes a sábado a las 5:45, 6:35, 8:05, 9:20, 11:30, 12:30, 13:30, los domingos a las 5:45, 6:30, 8:05, 9:30, 11:30, 12:30.
+
+Sin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente."
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cuánto cuesta el bus de Granada a Rivas y cómo se paga?</summary>
+
+La tarifa del bus de Granada a Rivas es de aproximadamente C$50 por persona.
+
+El pasaje se paga en efectivo una vez abordado el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje. Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.
+
+Actualmente, los buses públicos no aceptan tarjetas de crédito ni débito.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cómo llegar desde Granada a San Juan del Sur o la isla de Ometepe?</summary>
+
+Para viajar desde Granada a San Juan del Sur y la Isla de Ometepe, normalmente es necesario hacer transbordo en Rivas.
+
+Para ir a San Juan del Sur, puede tomar un bus desde la terminal de buses de Rivas.
+
+Para ir a Ometepe puede tomar un bus o un taxi desde la terminal de buses de Rivas hasta el puerto de San Jorge, donde podrá abordar el ferry hacia la isla.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se puede reservar el bus?</summary>
+
+En general, los buses públicos en Nicaragua no aceptan reservas. 
+Los pasajeros abordan por orden de llegada.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se pueden llevar maletas o equipaje grande en el bus público?</summary>
+
+Sí, normalmente se permite llevar maletas y equipaje grande en el bus público.
+
+Sin embargo, en horarios de alta demanda puede resultar incómodo debido al espacio limitado. Mantenga siempre sus objetos de valor consigo.
+
+En algunos casos, si su equipaje ocupa asientos adicionales, podrían cobrarle un pasaje extra.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Con qué frecuencia se actualiza la información de este sitio?</summary>
+
+Actualizamos la información de forma periódica.
+
+Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siempre recomendamos confirmar la información más reciente directamente en la terminal o con los operadores de transporte.
+
+</details>
+
+<div class="faq-link">
+  <a href="/faq/">Ver todas las preguntas frecuentes</a>
+</div>
+
+</div>
+
+---
+
+<div class="related-card">
+    <h3 class="related-title">
         Otros destinos desde Granada
     </h3>
 

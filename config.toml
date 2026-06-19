@@ -3,8 +3,8 @@ title = "Granada Bus Info"
 theme = "PaperMod"
 languageCode = "es"               
 defaultContentLanguage = "es"
-
 enableRobotsTXT = true
+googleAnalytics = "G-M4FBGNGH0P"
 
 [sitemap]
   filename = "sitemap.xml"
@@ -14,7 +14,8 @@ enableRobotsTXT = true
   disableThemeToggle = true
   disableSpecial1stPost = true
   mainSections = []
- 
+  env = "production"
+
 [params.label]
 icon = "/images/logo.png"
 iconHeight = 100
@@ -41,9 +42,14 @@ url = "/#destinations"
 weight = 2
 
 [[menu.main]]
+name = "FAQ"
+url = "/faq/"
+weight = 3
+
+[[menu.main]]
 name = "Contacto"
 url = "/contact/"
-weight = 3
+weight = 4
 
 disableKinds = []
 

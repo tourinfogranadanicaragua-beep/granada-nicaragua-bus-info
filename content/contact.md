@@ -36,7 +36,7 @@ Coogrant
 
 <div class="bus-stop-card">
 
-<h3>Terminal de buses contigua acilo de ansianos</h3>
+<h3>Terminal de buses contigua al asilo de ancianos</h3>
 
 <p>
 <span class="label">Destino</span><br>

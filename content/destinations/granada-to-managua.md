@@ -76,11 +76,11 @@ Terminal de buses de Casimiro Sotelo / UCA
 <div class="bus-card">
 
 ### Parada de salida
-Terminal  de buses contigua acilo de ansianos
+Terminal de buses contigua al asilo de ancianos
 
 <div class="image-map">
   <div class="image-wrap">
-    <img src="/images/stops/acilo-de-ancianos.jpeg" class="stop-image" alt="terminal contigua acili de ansianos">
+    <img src="/images/stops/acilo-de-ancianos.jpeg" class="stop-image" alt="terminal contigua acili de ancianos">
   </div>
 
   <div class="map-wrap">
@@ -194,6 +194,98 @@ Mercado Oriental
 
 <div class="related-card">
     <h3 class="related-title">
+        Preguntas frecuentes sobre los buses a Managua
+    </h3>
+
+<details class="faq-item">
+<summary>¿Dónde tomar el bus de Granada a Managua?</summary>
+
+Los buses de Granada a Managua salen desde las siguientes paradas: Parqueo Colón, Terminal de buses contigua al asilo de ancianos y Terminal del Puente Resbalón.
+
+Puede consultar la ubicación exacta, la dirección y el mapa de cada una en la parte superior de esta página.
+
+</details>
+
+<details class="faq-item">
+<summary>¿A qué hora salen los buses de Granada a Managua?</summary>
+
+Los buses de Granada a Managua salen desde Parqueo Colón de lunes a domingo entre las 4:40 am y las 6:00 pm, aproximadamente cada 10 minutos.
+
+Para consultar los buses que salen desde otras paradas, revise la información disponible en la parte superior de esta página.
+
+Sin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cuánto cuesta el bus de Granada a Managua y cómo se paga?</summary>
+
+La tarifa del bus de Granada a Managua es de aproximadamente C$37 por persona.
+
+El pasaje se paga en efectivo una vez abordado el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje. Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.
+
+Actualmente, los buses públicos no aceptan tarjetas de crédito ni débito.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cómo llegar a Aeropuerto Internacional de Managua después de bajar del bus?</summary>
+
+Para llegar a Aeropuerto Internacional de Managua, se recomienda tomar un taxi hasta el aeropuerto. En Managua, puede solicitar un taxi mediante aplicaciones de transporte como Ray o InDrive.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cómo llegar desde Granada a León, Matagalpa o Estelí?</summary>
+
+Para viajar desde Granada a León, Matagalpa o Estelí, normalmente es necesario hacer transbordo en Managua.
+
+Para ir a León, puede tomar un bus desde la Terminal de UCA en Managua.
+
+Para ir a Matagalpa, Estelí y otros destinos del norte de Nicaragua, los buses salen desde el Mercado Mayoreo.
+
+Para desplazarse entre las terminales de buses dentro de Managua, se recomienda utilizar taxi. También puede solicitar un taxi mediante aplicaciones como Ray o InDrive.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se puede reservar el bus?</summary>
+
+En general, los buses públicos en Nicaragua no aceptan reservas. 
+Los pasajeros abordan por orden de llegada.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se pueden llevar maletas o equipaje grande en el bus público?</summary>
+
+Sí, normalmente se permite llevar maletas y equipaje grande en el bus público.
+
+Sin embargo, en horarios de alta demanda puede resultar incómodo debido al espacio limitado. Mantenga siempre sus objetos de valor consigo.
+
+En algunos casos, si su equipaje ocupa asientos adicionales, podrían cobrarle un pasaje extra.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Con qué frecuencia se actualiza la información de este sitio?</summary>
+
+Actualizamos la información de forma periódica.
+
+Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siempre recomendamos confirmar la información más reciente directamente en la terminal o con los operadores de transporte.
+
+</details>
+
+<div class="faq-link">
+  <a href="/faq/">Ver todas las preguntas frecuentes</a>
+</div>
+
+</div>
+
+---
+
+<div class="related-card">
+    <h3 class="related-title">
         Otros destinos desde Granada
     </h3>
 
@@ -212,3 +304,47 @@ Mercado Oriental
 </ul>
 
 </div>
+
+<!-- SEO structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Dónde tomar el bus de Granada a Managua?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los buses de Granada a Managua salen desde las siguientes paradas: Parqueo Colón, Terminal de buses contigua al asilo de ancianos y Terminal del Puente Resbalón.\n\nPuede consultar la ubicación exacta, la dirección y el mapa de cada una en la parte superior de esta página."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿A qué hora salen los buses de Granada a Managua?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los buses de Granada a Managua salen desde Parqueo Colón de lunes a domingo entre las 4:40 am y las 6:00 pm, aproximadamente cada 10 minutes.\n\nPara consultar los buses que salen desde otras paradas, revise la información disponible en la parte superior de esta página.\n\nSin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuánto cuesta el bus de Granada a Managua y cómo se paga?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La tarifa del bus de Granada a Managua es de aproximadamente C$37 por persona.\n\nEl pasaje se paga en efectivo una vez abordado el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje. Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.\n\nActualmente, los buses públicos no aceptan tarjetas de crédito ni débito."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo llegar a Aeropuerto Internacional de Managua después de bajar del bus?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Para llegar a Aeropuerto Internacional de Managua, se recomienda tomar un taxi hasta el aeropuerto. En Managua, puede solicitar un taxi mediante aplicaciones de transporte como Ray o InDrive."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo llegar desde Granada a León, Matagalpa o Estelí?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Para viajar desde Granada a León, Matagalpa o Estelí, normalmente es necesario hacer transbordo en Managua.\n\nPara ir a León, puede tomar un bus desde la Terminal de UCA en Managua.\n\nPara ir a Matagalpa, Estelí y otros destinos del norte de Nicaragua, los buses salen desde el Mercado Mayoreo.\n\nPara desplazarse entre las terminales de buses dentro de Managua, se recomienda utilizar taxi. También puede solicitar un taxi mediante aplicaciones como Ray o InDrive."
+    }
+  }]
+}
+</script>

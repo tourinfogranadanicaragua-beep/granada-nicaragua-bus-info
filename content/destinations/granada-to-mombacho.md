@@ -142,6 +142,83 @@ Parada del empalme del Guanacaste
 
 ---
 
+<div class="related-card">
+    <h3 class="related-title">
+        Preguntas frecuentes sobre los buses a Volcán Mombacho
+    </h3>
+
+<details class="faq-item">
+<summary>¿Dónde tomar el bus de Granada a Volcán Mombacho?</summary>
+
+El bus de Granada a Volcán Mombacho sale desde Terminal de Maxi Palí.
+
+Puede consultar la ubicación exacta, la dirección y el mapa en la información mostrada en la parte superior de esta página.
+
+</details>
+
+<details class="faq-item">
+<summary>¿A qué hora salen los buses de Granada a Volcán Mombacho?</summary>
+
+Los buses de Granada a Volcán Mombacho salen desde Terminal de Maxi Palí de lunes a sábado entre las 5:00 am y las 6:00 pm, los domingos entre las 5:30 am y las 4:30 pm, aproximadamente cada 30 minutos.
+
+Sin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cuánto cuesta el bus de Granada a Volcán Mombacho y cómo se paga?</summary>
+
+La tarifa del bus de Granada a Volcán Mombacho es de aproximadamente C$15 por persona.
+
+El pasaje se paga en efectivo una vez abordado el bus. Un cobrador pasará por los asientos para cobrar la tarifa durante el viaje. Se recomienda llevar córdobas en billetes pequeños o monedas, ya que es posible que no tengan cambio inmediatamente.
+
+Actualmente, los buses públicos no aceptan tarjetas de crédito ni débito.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Cómo llegar a Volcán Mombacho después de bajar del bus?</summary>
+
+Para llegar a Volcán Mombacho, puede bajarse en parada del empalme del Guanacaste y tomar un mototaxi hasta la entrada o el destino final.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se puede reservar el bus?</summary>
+
+En general, los buses públicos en Nicaragua no aceptan reservas. 
+Los pasajeros abordan por orden de llegada.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Se pueden llevar maletas o equipaje grande en el bus público?</summary>
+
+Sí, normalmente se permite llevar maletas y equipaje grande en el bus público.
+
+Sin embargo, en horarios de alta demanda puede resultar incómodo debido al espacio limitado. Mantenga siempre sus objetos de valor consigo.
+
+En algunos casos, si su equipaje ocupa asientos adicionales, podrían cobrarle un pasaje extra.
+
+</details>
+
+<details class="faq-item">
+<summary>¿Con qué frecuencia se actualiza la información de este sitio?</summary>
+
+Actualizamos la información de forma periódica.
+
+Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siempre recomendamos confirmar la información más reciente directamente en la terminal o con los operadores de transporte.
+
+</details>
+
+<div class="faq-link">
+  <a href="/faq/">Ver todas las preguntas frecuentes</a>
+</div>
+
+</div>
+
+---
+
 
 <div class="related-card">
     <h3 class="related-title">
