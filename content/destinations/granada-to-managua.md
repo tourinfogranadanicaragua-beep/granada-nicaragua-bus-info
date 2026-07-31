@@ -4,7 +4,7 @@ seoTitle: "Bus de Granada a Managua | Horarios, Terminales y Precios (Guía 2026
 description: "Información actualizada sobre buses de Granada a Managua: horarios, terminales, precios, rutas y recomendaciones para viajeros."
 ---
 
-## Bus a Casimiro Sotelo / UCA, Managua
+## Bus a la nueva terminal de la UCA, Managua
 
 <div class="bus-card">
 
@@ -49,7 +49,7 @@ Terminal de buses a Managua, Parqueo Colón
 </div>
 
 ### Parada de llegada
-Terminal de buses de Casimiro Sotelo / UCA
+La nueva terminal de la UCA
 
 <!-- 写真と地図どちらも表示する場合 -->
 <div class="image-map">
@@ -58,7 +58,8 @@ Terminal de buses de Casimiro Sotelo / UCA
   </div>
 
   <div class="map-wrap">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d638.2479888167085!2d-86.27107323112331!3d12.127305506925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f715566eab4a549%3A0x2ead63579f99144e!2sTerminal%20de%20buses%20Managua-Granada%20cooperativa%20cocibolca!5e0!3m2!1ses-419!2sni!4v1778521292683!5m2!1ses-419!2sni"  style="border:0;" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3900.9302197782517!2d-86.27604292493771!3d12.116926988125433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDA3JzAwLjkiTiA4NsKwMTYnMjQuNSJX!5e0!3m2!1sja!2sni!4v1785528726246!5m2!1sja!2sni"
+    style="border:0;" loading="lazy"></iframe>
   </div>
 </div>
 
@@ -295,12 +296,12 @@ Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siem
   <li><a href="/destinations/granada-to-rivas/">Buses de Granada a Rivas</a></li>
   <li><a href="/destinations/granada-to-mombacho/">Buses de Granada a Volcán Mombacho</a></li>
   <li><a href="/destinations/granada-to-aguas-agrias/">Buses de Granada a Aguas Agrias</a></li>
-  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina</a></li>
+  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina (Masaya)</a></li>
   <li><a href="/destinations/granada-to-san-carlos/">Buses de Granada a San Carlos (Rio San Juan)</a></li>
-  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime</a></li>
-  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá, Diriomo, Niquinohomo</a></li>
-  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe</a></li>
-  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya</a></li>
+  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime (Granada)</a></li>
+  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá/Diriomo (Granada), Niquinohomo (Masaya)</a></li>
+  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe (Carazo)</a></li>
+  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya (Granada)</a></li>
 </ul>
 
 </div>

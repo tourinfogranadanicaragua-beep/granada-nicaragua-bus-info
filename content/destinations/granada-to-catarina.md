@@ -1,5 +1,5 @@
 ---
-title: "Buses de Granada al Mirador de Catarina"
+title: "Buses de Granada al Mirador de Catarina (Masaya)"
 seoTitle: "Bus de Granada al Mirador de Catarina | Horarios, Terminales y Precios (Guía 2026)"
 description: "Información actualizada sobre buses de Granada a Mirador de Catarina: horarios, terminales, precios, rutas y recomendaciones para viajeros."
 ---
@@ -169,12 +169,12 @@ Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siem
   <li><a href="/destinations/granada-to-rivas/">Buses de Granada a Rivas</a></li>
   <li><a href="/destinations/granada-to-mombacho/">Buses de Granada a Volcán Mombacho</a></li>
   <li><a href="/destinations/granada-to-aguas-agrias/">Buses de Granada a Aguas Agrias</a></li>
-  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina</a></li>
+  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina (Masaya)</a></li>
   <li><a href="/destinations/granada-to-san-carlos/">Buses de Granada a San Carlos (Rio San Juan)</a></li>
-  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime</a></li>
-  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá, Diriomo, Niquinohomo</a></li>
-  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe</a></li>
-  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya</a></li>
+  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime (Granada)</a></li>
+  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá/Diriomo (Granada), Niquinohomo (Masaya)</a></li>
+  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe (Carazo)</a></li>
+  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya (Granada)</a></li>
 </ul>
 
 </div>

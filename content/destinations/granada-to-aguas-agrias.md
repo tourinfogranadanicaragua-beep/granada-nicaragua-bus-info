@@ -32,7 +32,7 @@ Terminal de Maxi Pali
 | Día | Horario | Frecuencia |
 |-----|---------|------------|
 | Lunes a sábado | 5:00 a.m. - 6:00 p.m. | cada 30 min |
-| Domingo | 5:30 a.m. - 4:30 p.m. | cada 30 min |
+| Domingo | 5:30 a.m. - 4:00 p.m. | cada 30 min |
 </div>
 
 
@@ -164,7 +164,7 @@ Puede consultar la ubicación exacta, la dirección y el mapa en la información
 <details class="faq-item">
 <summary>¿A qué hora salen los buses de Granada a Aguas Agrias?</summary>
 
-Los buses de Granada a Aguas Agrias salen desde Terminal de Maxi Palí de lunes a sábado entre las 5:00 am y las 6:00 pm, los domingos entre las 5:30 am y las 4:30 pm, aproximadamente cada 30 minutos.
+Los buses de Granada a Aguas Agrias salen desde Terminal de Maxi Palí de lunes a sábado entre las 5:00 am y las 6:00 pm, los domingos entre las 5:30 am y las 4:00 pm, aproximadamente cada 30 minutos.
 
 Sin embargo, los buses públicos en Nicaragua no siempre operan exactamente según el horario previsto. Se recomienda utilizar estos horarios solo como referencia y viajar con tiempo suficiente.
 
@@ -236,12 +236,12 @@ Sin embargo, los horarios, tarifas y rutas pueden cambiar sin previo aviso. Siem
   <li><a href="/destinations/granada-to-rivas/">Buses de Granada a Rivas</a></li>
   <li><a href="/destinations/granada-to-mombacho/">Buses de Granada a Volcán Mombacho</a></li>
   <li><a href="/destinations/granada-to-aguas-agrias/">Buses de Granada a Aguas Agrias</a></li>
-  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina</a></li>
+  <li><a href="/destinations/granada-to-catarina/">Buses de Granada a Mirador de Catarina (Masaya)</a></li>
   <li><a href="/destinations/granada-to-san-carlos/">Buses de Granada a San Carlos (Rio San Juan)</a></li>
-  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime</a></li>
-  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá, Diriomo, Niquinohomo</a></li>
-  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe</a></li>
-  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya</a></li>
+  <li><a href="/destinations/granada-to-nandaime/">Buses de Granada a Nandaime (Granada)</a></li>
+  <li><a href="/destinations/granada-to-niquinohomo/">Buses de Granada a Diriá/Diriomo (Granada), Niquinohomo (Masaya)</a></li>
+  <li><a href="/destinations/granada-to-jinotepe/">Buses de Granada a Jinotepe (Carazo)</a></li>
+  <li><a href="/destinations/granada-to-malacatoya/">Buses de Granada a Malacatoya (Granada)</a></li>
 </ul>
 
 </div>

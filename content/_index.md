@@ -67,20 +67,9 @@ Ver buses de Granada a Aguas Agrias
 
 </section>
 
-</div>
-
-<details class="more-destinations">
-
-  <summary>
-    <span class="open-text">Ver más destinos</span>
-    <span class="close-text">Ocultar destinos</span>
-  </summary>
-
-<div class="destination-list">
-
 <section class="box">
 
-### [Mirador de Catarina](/destinations/granada-to-catarina/)
+### [Mirador de Catarina (Masaya)](/destinations/granada-to-catarina/)
 
 <img src="/images/destinations/catarina.jpeg"
 class="destination-image"
@@ -118,7 +107,6 @@ Ver buses de Granada - Laguna de Apoyo
 
 </div>
 
-</details>
 
 
 ---
@@ -197,20 +185,9 @@ Ver buses de Granada a San Carlos
 
 </section>
 
-</div>
-
-<details class="more-destinations">
-
-  <summary>
-    <span class="open-text">Ver más destinos</span>
-    <span class="close-text">Ocultar destinos</span>
-  </summary>
-
-<div class="destination-list">
-
 <section class="box">
 
-### [Nandaime](/destinations/granada-to-nandaime/)
+### [Nandaime (Granada)](/destinations/granada-to-nandaime/)
 
 <img src="/images/destinations/nandaime.jpg"
 class="destination-image"
@@ -226,7 +203,7 @@ Ver buses de Granada a Nandaime
 
 <section class="box">
 
-### [Diriá, Diriomo, Niquinohomo](/destinations/granada-to-niquinohomo/)
+### [Diriá / Diriomo (Granada), Niquinohomo (Masaya)](/destinations/granada-to-niquinohomo/)
 
 <img src="/images/destinations/diriomo.jpeg"
 class="destination-image"
@@ -241,7 +218,7 @@ Pueblos tradicionales cerca de Granada, conocidos por su ambiente local, artesan
 
 <section class="box">
 
-### [Jinotepe](/destinations/granada-to-jinotepe/)
+### [Jinotepe (Carazo)](/destinations/granada-to-jinotepe/)
 
 <img src="/images/destinations/Jinotepe.jpeg"
 class="destination-image"
@@ -257,7 +234,7 @@ Ver buses de Granada a Jinotepe
 
 <section class="box">
 
-### [Malacatoya](/destinations/granada-to-Malacatoya/)
+### [Malacatoya (Granada)](/destinations/granada-to-Malacatoya/)
 
 <img src="/images/destinations/malacatoya.jpg"
 class="destination-image"
@@ -272,7 +249,6 @@ Ver buses de Granada a Malacatoya
 </section>
 
 </div>
-</details>
 
 ---
 
